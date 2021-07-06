@@ -4,6 +4,7 @@ using System.Text;
 
 namespace OOP1
 {
+    //Yorum Yapıyorum
     class Product //entity
     {
         public int Id { get; set; }//primary key
